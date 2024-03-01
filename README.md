@@ -48,5 +48,4 @@ const persona = {
     }
 };
 
-
-## Este archivo contiene una breve introducción a JavaScript, instrucciones de instalación y algunos conceptos básicos. ¡Espero que te sea útil! 😊
+Este archivo contiene una breve introducción a JavaScript, instrucciones de instalación y algunos conceptos básicos. ¡Espero que te sea útil! 😊
